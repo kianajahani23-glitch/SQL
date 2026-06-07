@@ -36,6 +36,6 @@ The dataset contains information about:
 - Academic outcomes varied across major categories and AI usage levels.
 
 ## Repository Structure
-- `AI_Impact_Analysis.ipynb` : SQL analysis notebook
+- `AI_impact_on_students.ipynb` : SQL analysis notebook
 - `README.md` : project documentation
 
