@@ -39,8 +39,5 @@ The dataset contains information about:
 - `AI_Impact_Analysis.ipynb` : SQL analysis notebook
 - `README.md` : project documentation
 
-- 
-
-## Repository Structure
-- `AI_Impact_Analysis.ipynb` : SQL analysis notebook
+lysis.ipynb` : SQL analysis notebook
 - `README.md` : project documentation
