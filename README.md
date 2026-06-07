@@ -5,7 +5,7 @@
 This project analyzes the impact of Generative AI usage on student academic performance using SQL queries executed with DuckDB in Google Colab.
 
 ## Dataset
-# Data used from: https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students/data
+## https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students/data
 
 The dataset contains information about:
 - Student GPA before and after the semester
